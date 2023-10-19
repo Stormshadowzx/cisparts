@@ -1,7 +1,6 @@
 .container {
     width: 100%;
     margin: 0 auto;
-    padding-inline: 10%;
     display: flex;
     justify-content:center;
     align-items: center;
@@ -17,11 +16,13 @@
     align-items: center;
     background-color: cyan;
  }
+
  .set1 {
-    width: 100%;
+
     display: grid;
     grid-template-columns: repeat(6, 1fr);
+ }
 
-  
-  }
+
+
 
