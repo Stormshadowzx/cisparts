@@ -19,22 +19,30 @@
  @media screen and (max-width: 430px) 
  {
    .container {
-        font-size: 1rem !important;
+        font-size:smaller
+     }
+     p {
+      font-size: smaller;
      }
  }
  @media screen and (max-width: 720px) 
  {
    .container {
-        font-size: 1rem !important;
+      font-size:small
+     }
+     p {
+      font-size: small;
      }
  }
  @media screen and (max-width: 1080px)
  {
    .container {
-        font-size: 1rem !important;
+      font-size:medium
      }
- }
-
+     p {
+      font-size: medium;
+     }
+   }
  @media screen and (max-width: 1280px)
  {}
  @media screen and (max-width: 1440px)
