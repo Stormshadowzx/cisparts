@@ -24,6 +24,9 @@
      p {
       font-size: smaller;
      }
+     div {
+      font-size: smaller;
+     }
  }
  @media screen and (max-width: 720px) 
  {
@@ -33,6 +36,9 @@
      p {
       font-size: small;
      }
+     div {
+      font-size: small;
+     }
  }
  @media screen and (max-width: 1080px)
  {
@@ -40,6 +46,9 @@
       font-size:medium
      }
      p {
+      font-size: medium;
+     }
+     div {
       font-size: medium;
      }
    }
