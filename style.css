@@ -18,40 +18,22 @@
 
  @media screen and (max-width: 430px) 
  {
-   .container {
-        font-size:smaller
+   html {
+        font: size 1rem;
      }
-     p {
-      font-size: smaller;
-     }
-     div {
-      font-size: smaller;
-     }
- }
+   }
  @media screen and (max-width: 720px) 
  {
-   .container {
-      font-size:small
-     }
-     p {
-      font-size: small;
-     }
-     div {
-      font-size: small;
-     }
+   html {
+      font: size 1rem;
+   }
  }
  @media screen and (max-width: 1080px)
  {
-   .container {
-      font-size:medium
-     }
-     p {
-      font-size: medium;
-     }
-     div {
-      font-size: medium;
-     }
+   html {
+      font: size 1rem;
    }
+}
  @media screen and (max-width: 1280px)
  {}
  @media screen and (max-width: 1440px)
