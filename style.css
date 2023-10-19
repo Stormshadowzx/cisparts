@@ -1,25 +1,22 @@
 .container {
+   width: fit-content;
     margin: 0 auto;
-    display: flex;
-    justify-content:center;
+    display:grid;
+    grid-template-columns:repeat(6, 1fr);
     align-items: center;
 
  }
  .container1 {
+   width: 80% !important;
     height: 300px;
     margin: 0 auto;
-    padding: 5rem;
-    display: flex;
-    justify-content:center;
+    padding: 1rem;
+    display:grid;
+    grid-template-columns:repeat(3, 1fr);
     align-items: center;
-    background-color: cyan;
  }
 
- .set1 {
 
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
- }
 
 
 
