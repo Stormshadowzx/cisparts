@@ -2,6 +2,13 @@ html {
    font-size: calc(60% + 0.8vmin)
   }
 
+  * html . {
+   font-size: calc(60% + 0.8vmin)
+  }
+
+  * {
+   font-size: 100%;
+  }
 .container {
    width: 100%;
     margin: 0 auto;
