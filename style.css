@@ -42,7 +42,6 @@ html {
    width: 80% !important;
     height: auto;
     margin: 0 auto;
-    padding: 1rem;
     display:grid;
     grid-template-columns:repeat(3, 1fr);
     align-items: center;
